@@ -1,0 +1,67 @@
+{
+  "products": {
+    "0": {
+      "id": 1,
+      "description": "Table",
+      "material": "Piedra Ostionera",
+      "price": 200,
+      "coin": "\u20ac"
+    },
+    "1": {
+      "id": 2,
+      "description": "Chair",
+      "material": "Piedra Ostionera",
+      "price": 75,
+      "coin": "\u20ac"
+    },
+    "2": {
+      "id": 3,
+      "description": "Regal",
+      "material": "Piedra Ostionera",
+      "price": 500,
+      "coin": "\u20ac"
+    },
+    "3": {
+      "id": 4,
+      "description": "Table",
+      "material": "Suela de chancla",
+      "price": 150,
+      "coin": "\u20ac"
+    },
+    "4": {
+      "id": 5,
+      "description": "Chair",
+      "material": "Suela de chancla",
+      "price": 50,
+      "coin": "\u20ac"
+    },
+    "5": {
+      "id": 6,
+      "description": "Regal",
+      "material": "Suela de chancla",
+      "price": 15,
+      "coin": "\u20ac"
+    },
+    "6": {
+      "id": 7,
+      "description": "Table",
+      "material": "steel",
+      "price": 75,
+      "coin": "\u20ac"
+    },
+    "7": {
+      "id": 8,
+      "description": "Chair",
+      "material": "steel ",
+      "price": 30,
+      "coin": "\u20ac"
+    },
+    "8": {
+      "id": 9,
+      "description": "Regal",
+      "material": "steel",
+      "price": 150,
+      "coin": "\u20ac"
+    }
+  }
+}
